@@ -10,7 +10,7 @@ labs handout, datasets, R scripts) can be downloaded from [here](materials/mater
 A brief description of the datasets that will be used during the lab session is
 provided below.
 
-##### **Heavy metal monitoring in Galicia**
+##### `r  icons::fontawesome("database")` **Heavy metal monitoring in Galicia**
 This dataset relates to two studies on lead concentration in moss samples, in micrograms per gram dry weight, collected in Galicia, norther Spain. The data are from two survey conducted in July 2000. The variables are as follows:
 
 - **lead:** lead concentration.
@@ -22,7 +22,7 @@ This dataset relates to two studies on lead concentration in moss samples, in mi
 **Reference**\
 Diggle, P.J., Menezes, R. and Su, T.‐l. (2010), Geostatistical inference under preferential sampling. Journal of the Royal Statistical Society: Series C (Applied Statistics), 59: 191-232. https://doi.org/10.1111/j.1467-9876.2009.00701.x.
 
-##### **River blindness in Liberia**
+##### `r  icons::fontawesome("database")` **River blindness in Liberia**
 The data-set contains information on 91 villages sampled across Liberia regarding river blindness infection. 
 
 - **lat:** latitude (WGS84) of the of sampled villages.
@@ -35,7 +35,7 @@ The data-set contains information on 91 villages sampled across Liberia regardin
 **Reference**\
 Zouré, H.G., Noma, M., Tekle, A.H. et al. The geographic distribution of onchocerciasis in the 20 participating countries of the African Programme for Onchocerciasis Control: (2) pre-control endemicity levels and estimated number infected. Parasites Vectors 7, 326 (2014). https://doi.org/10.1186/1756-3305-7-326.
 
-##### **LoaLoa in Cameroon and sourthern Nigeria**
+##### `r  icons::fontawesome("database")` **LoaLoa in Cameroon and sourthern Nigeria**
 
 The data for this example relate to a study of the prevalence of Loa loa (eyeworm) in a series of surveys undertaken in 197 villages in Cameroon and southern Nigeria. The variables are as follows:
 
@@ -54,7 +54,7 @@ The data for this example relate to a study of the prevalence of Loa loa (eyewor
 **Reference**\
 Diggle PJ, Thomson MC, Christensen OF, Rowlingson B, Obsomer V, Gardon J, Wanji S, Takougang I, Enyong P, Kamgno J, Remme JH, Boussinesq M, Molyneux DH. Spatial modelling and the prediction of Loa loa risk: decision making under uncertainty. Ann Trop Med Parasitol. 2007 Sep;101(6):499-509. doi: 10.1179/136485913X13789813917463. PMID: 17716433.
 
-##### **Stunting in Liberia**
+##### `r  icons::fontawesome("database")` **Stunting in Liberia**
 
 Heigh-for-age z-scores data obtained from the DHS programme. The data were originally at individual level, but fort he purpose of this workshop, they have been aggregated to cluster (location) level.
 
@@ -63,3 +63,6 @@ Heigh-for-age z-scores data obtained from the DHS programme. The data were origi
 - **longitude:** Longitude in degrees.
 - **latitude:** Latitude in degrees.
 - **malaria_incidence_rate:** malaria incidence rate associated to each cluster.
+
+**Reference**\
+Liberia Institute of Statistics and Geo-Information Services - LISGIS/Liberia, Ministry of Health and Social Welfare/Liberia, National AIDS Control Program/Liberia, and Macro International. 2008. Liberia Demographic and Health Survey 2007. Monrovia, Liberia: LISGIS and Macro International. Available at http://dhsprogram.com/pubs/pdf/FR201/FR201.pdf.
