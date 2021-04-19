@@ -34,3 +34,32 @@ The data-set contains information on 91 villages sampled across Liberia regardin
 
 **Reference**\
 Zouré, H.G., Noma, M., Tekle, A.H. et al. The geographic distribution of onchocerciasis in the 20 participating countries of the African Programme for Onchocerciasis Control: (2) pre-control endemicity levels and estimated number infected. Parasites Vectors 7, 326 (2014). https://doi.org/10.1186/1756-3305-7-326.
+
+##### **LoaLoa in Cameroon and sourthern Nigeria**
+
+The data for this example relate to a study of the prevalence of Loa loa (eyeworm) in a series of surveys undertaken in 197 villages in Cameroon and southern Nigeria. The variables are as follows:
+
+- **ROW:** row id: 1 to 197.
+- **VILLCODE:** village id.
+- **LONGITUDE:** Longitude in degrees.
+- **LATITUDE:** Latitude in degrees.
+- **NO_EXAM:** Number of people tested.
+- **NO_INF:** Number of positive test results.
+- **ELEVATION:** Height above sea-level in metres.
+- **MEAN9901:** Mean of all NDVI values recorded at village location, 1999-2001
+- **MAX9901:** Maximum of all NDVI values recorded at village location, 1999-2001
+- **MIN9901:** Minimum of all NDVI values recorded at village location, 1999-2001
+- **STDEV9901:** standard deviation of all NDVI values recorded at village location, 1999-2001.
+
+**Reference**\
+Diggle PJ, Thomson MC, Christensen OF, Rowlingson B, Obsomer V, Gardon J, Wanji S, Takougang I, Enyong P, Kamgno J, Remme JH, Boussinesq M, Molyneux DH. Spatial modelling and the prediction of Loa loa risk: decision making under uncertainty. Ann Trop Med Parasitol. 2007 Sep;101(6):499-509. doi: 10.1179/136485913X13789813917463. PMID: 17716433.
+
+##### **Stunting in Liberia**
+
+Heigh-for-age z-scores data obtained from the DHS programme. The data were originally at individual level, but fort he purpose of this workshop, they have been aggregated to cluster (location) level.
+
+- **cluster:** unique id for the cluster location.
+- **height_for_age_zscores:** average HAZ score.
+- **longitude:** Longitude in degrees.
+- **latitude:** Latitude in degrees.
+- **malaria_incidence_rate:** malaria incidence rate associated to each cluster.

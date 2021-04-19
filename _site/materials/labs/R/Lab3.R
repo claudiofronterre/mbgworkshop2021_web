@@ -4,8 +4,7 @@ pkgs = c("sf", "PrevMap", "raster", "mapview", "dplyr",
          "tmap") # package names
 pacman::p_load(pkgs, character.only = T)
 
-
-source("R/functions.R")
+source("functions.R")
 
 # LOAD DATA --------------------------------------------------------------------
 
