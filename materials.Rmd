@@ -1,0 +1,36 @@
+---
+title: "Workshop materials"
+---
+
+A zipped folder containing all the materials needed for the workshop (slides,
+labs handout, datasets, R scripts) can be downloaded from [here](materials/materials.zip).
+
+## Datasets
+
+A brief description of the datasets that will be used during the lab session is
+provided below.
+
+##### **Heavy metal monitoring in Galicia**
+This dataset relates to two studies on lead concentration in moss samples, in micrograms per gram dry weight, collected in Galicia, norther Spain. The data are from two survey conducted in July 2000. The variables are as follows:
+
+- **lead:** lead concentration.
+- **loglead:** lead concentration on the log-scale.
+- **long:** longitude (WGS84).
+- **lat:** latitude (WGS84).
+- **pm10:** inhalable particles, with diameters that are 10 micrometers and smaller.
+
+**Reference**\
+Diggle, P.J., Menezes, R. and Su, T.‐l. (2010), Geostatistical inference under preferential sampling. Journal of the Royal Statistical Society: Series C (Applied Statistics), 59: 191-232. https://doi.org/10.1111/j.1467-9876.2009.00701.x.
+
+##### **River blindness in Liberia**
+The data-set contains information on 91 villages sampled across Liberia regarding river blindness infection. 
+
+- **lat:** latitude (WGS84) of the of sampled villages.
+- **long:** longitude (WGS84) of the sampled villages.
+- **ntest:** number of tested people for the presence nodules. 
+- **npos:** number of people that tested positive for the presence of nodules.
+- **elevation:** elevation of the village, in meters.
+- **logelevation:** log-transformed elevation of the village.
+
+**Reference**\
+Zouré, H.G., Noma, M., Tekle, A.H. et al. The geographic distribution of onchocerciasis in the 20 participating countries of the African Programme for Onchocerciasis Control: (2) pre-control endemicity levels and estimated number infected. Parasites Vectors 7, 326 (2014). https://doi.org/10.1186/1756-3305-7-326.

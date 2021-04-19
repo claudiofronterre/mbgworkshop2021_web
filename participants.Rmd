@@ -1,0 +1,55 @@
+---
+title: "Participants biography"
+---
+
+A short biography of the participants that provided their consent is listed below. 
+
+<br/>
+
+**Clinton Nkolokosa, Malawi-Liverpool-Wellcome Trust** `r  icons::fontawesome("envelope")` cnkolokosa@mlw.mw\
+Spatial epidemiologist in training and an open-source enthusiast. My current activities focus on using novel geostatistical models to offer unique insight into malaria transmission in specific geographies in Malawi.
+
+**Dr. Pietro Colombo, University of Bergamo** `r  icons::fontawesome("envelope")` pietro.colombo@unibg.it\
+I am passionate about statistics. I earned my 120 etcs Master’s degree in Statistical Science at Bologna University, and my bachelor’s degree in economics at Bergamo University. I am currently employed by the Bergamo University’s department of engineering in a research project called “Environmental Data Science". My goal is to become a prominent scientist in applied analysis. My research focus will be  on finding appropriate models to describe the uncertainty burden in the estimates of environmental and applied problems.
+
+**Dr. Chiaka Anumudu, University of Ibadan, Nigeria** `r  icons::fontawesome("envelope")` cianumudu@yahoo.com\
+Chiaka Anumudu has a PhD in Cellular Parasitology. Her research, first in malaria and now in worms has been in the area of immunopathogenesis and molecular epidemiology. She is currently interested in translational research approaches for the control of schistosomiasis, especially in the context of co-infection with malaria, and in genetic host-pathogen interactions. She has been working on the characterization of protein biomarkers in schistosomiasis and associated bladder pathology cases from Nigeria for inclusion in a rapid diagnostic test for the disease.
+
+**Soraia Pereira, CEAUL, University of Lisbon, Portugal**\
+Soraia Pereira is a postdoctoral fellow at Centre of Statistics and its Applications, University of Lisbon (CEAUL). Her current research interests include spatial modelling and statistics of extremes.
+
+**Iúri Josiane Frizado Correia, Centre of Statistics and its Applications (CEAUL, Portugal)** `r  icons::fontawesome("envelope")` iuri96@outlook.pt\
+Biostatistics Master with a Biology Bachelor currently looking for a PhD in Spatial Statistics applied to Epidemiology and/or Environment. Also working in CEAUL as a Junior Researcher and passionate about learning and applying Statistics. With greatly developed soft skills due to several challenges at work and volunteering, my free time is dedicated to various occupations, from such activities to learning languages and reading.
+
+**Kieran O'Brien, Malawi-Liverpool-Wellcome Trust** `r  icons::fontawesome("envelope")` cnkolokosa@mlw.mw\
+Postdoctoral researcher at the University of California San Francisco's Proctor Foundation where she leads individual- and cluster-randomized trials examining interventions to prevent ocular disease and improve child health.
+
+**Dr. Richard Kamwezi, Malawi-Liverpool Wellcome Trust Clinical Research Programme** `r  icons::fontawesome("envelope")` rkamwezi@mlw.mw\
+Richard Kamwezi is an early career researcher based at the Malawi-Liverpool Wellcome Trust Clinical Research where he works with the Vector Biology Research Group. His research interest is in the use of quantitative methods and spatial analytics to optimize disease surveillance. 
+
+**Nguyen Pham Nhu Quynh, Oxford Clinical Research Unit (OUCRU) Ho Chi Minh City, Viet Nam** `r  icons::fontawesome("envelope")` quynhnpn@oucru.org\
+I recently graduated from University of Science in 2020 in Biotechnology and then started my academic career at Oxford University Clinical Research Unit. I have been working as a Research Assistant in Molecular Epidemiology Group and my current research has been focused on molecular epidemiology of bacterial pathogens causing bloodstream infections in Vietnam as well as other Low and Middle Income countries. I am interested in genomic analyses to identify the antimicrobial resistance determinants and investigate the bacterial transmission dynamics of bloodstream infections in various Gram-negative pathogens. I have since gained extensive hands-on skills and experiences in bioinformatics and phylogenetics and been involved in several publications. My long-term career goal is to pursuit higher academic education in genomic biology and molecular biology and to further contribute my knowledge and skills to enhance local public health.
+
+**Jade Rae, Shoklo Malaria Research Unit (SMRU)** `r  icons::fontawesome("envelope")` jade@shoklo-unit.com\
+I am an epidemiologist and PhD candidate based on the Thai-Myanmar border, investigating how we can improve surveillance and the delivery of targeted interventions to achieve malaria elimination in a malaria elimination programme (METF) in the Karen State of Myanmar. This programme has operated a network of more than 1,200 malaria posts since 2016 from which we have weekly data on case numbers and testing rates. My current work aims to identify malaria posts where the incidence is not declining at the same rate, and where additional interventions may be necessary to achieve elimination. 
+
+**Oluwasegun Taiwo Ojo, IMDEA Networks Institute** `r  icons::fontawesome("envelope")` oluwasegun.ojo@imdea.org\
+Oluwasegun Ojo is a PhD Student at IMDEA Networks Institute and Universidad Carlos III de Madrid (UC3M) since April 2018. Previously he received a B.Tech in Statistics from the Federal University of Technology, Akure, Nigeria, and a MSc in Mathematical Sciences from the African Institute for Mathematical Sciences, Limbe, Cameroon. His main research interest is in robust methods for functional data analysis.
+
+**Lam Phung Khanh, University of Medicine and Pharmacy at Ho Chi Minh City, Oxford University Clinical Research Unit** `r  icons::fontawesome("envelope")` lampk@ump.edu.vn\
+I am a postdoc working at the Biostatistics group of the Oxford University Clinical Research Unit in Vietnam and the Department of Epidemiology of the University of Medicine and Pharmacy at Ho Chi Minh City. My current research focuses on developing and validating of prediction models in dengue infection, designing and analyzing clinical trials as well as population-based epidemiological surveys.
+
+**Vinh Chau, Oxford University Clinical Research Unit** `r  icons::fontawesome("envelope")` vinhc@oucru.org\
+I graduated in Mathematics from University of Science in 2017 and then started my academic career at Oxford University Clinical Research Unit. I have been working as a Data Coordinator in Molecular Epidemiology Group and a keen interest in infectious disease epidemiology. I have since gained extensive hands-on skills and experiences in epidemiology and medical statistics. My long-term career goal is to pursuit higher academic education in epidemiology with computer science and to further contribute my knowledge and skills to enhance local public health.
+
+**Stephanie Somerville, Sightsavers, University of Glasgow** `r  icons::fontawesome("envelope")` ssomerville@sightsavers.org\
+I am currently the NTD Data Analyst Manager working on the Accelerate programme at Sightsavers. The Accelerate trachoma elimination programme aims to support at least eight countries to eliminate trachoma as a public health risk, and speed up progress in several others by 2023. I have a BSc (Hons) in Mathematics and Statistics from the University of Glasgow. 
+
+**Laura Senyonjo, Sightsavers** `r  icons::fontawesome("envelope")` lsenyonjo@sightsavers.org\
+Currently working at Sightsavers as Senior Neglected Tropical Diseases epidemiologist and surveillance advisor and previous to that within the research team. Have predominantly worked for NGOs in and across Africa, as well as a stint in UK public health. I have a PhD in trachoma elimination surveillance strategies and a MSc in Control of Infectious Diseases both from LSHTM. 
+
+**Olimpia Lamberti, University of Oxford** `r  icons::fontawesome("envelope")` olimpia.lamberti@hotmail.it\
+I am a research assistant in the Chami group at the Big Data Institute (BDI) and, Clinical Trial Service Unit and Epidemiological Studies Unit (CTSU). I am interested in the epidemiology of schistosomiasis in sub-Saharan Africa and in particular in Uganda. My work seeks to better understand the determinants of treatment access and treatment effectiveness for schistosomiasis as well as the behavioural factors associated with increased transmission risk. To address the complexities of this research area, my studies combine methods from statistics and epidemiology. I hold a BSc in Physics and Philosophy at King’s College London, graduating in 2018. I then undertook a Masters in Global Health and Epidemiology at the University of Oxford.
+
+**Dr Jarunee (Jar) Siengsanan-Lamont, MORU** `r  icons::fontawesome("envelope")` jarunee@tropmedres.ac\
+Jar is a veterinarian from Thailand. She completed her PhD in veterinary epidemiology at Murdoch University, Australia in 2010. Her research background is in epidemiology study, risk assessment and surveillance of zoonotic diseases in wild and domestic animals e.g. HPAI, brucellosis, Q fever, etc. Jar recently completed a graduate certificate in Data sciences and is a competent R user. She is currently working as a manager of the projects to enhance veterinary diagnosis and disease detection in Lao PDR, Cambodia and Thailand at the Mahidol Oxford Tropical Medicine Research Unit (MORU).

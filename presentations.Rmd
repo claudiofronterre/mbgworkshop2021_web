@@ -1,0 +1,34 @@
+---
+title: "Participants presentations"
+---
+
+<br/>
+
+**Order of presentations**
+
+09:30 - 10:10 Jade Rae
+
+10:15 - 10:55 Chiaka Anumudu Ijeoma
+
+11:00 - 11:40 Laura Senyonjo
+
+11:45 - 12:25 Lam Phung
+
+**Optimising surveillance and targeted intervention delivery to achieve malaria elimination in the Kayin State of Myanmar**\
+*Jade Rae, Shoklo Malaria Research Unit (SMRU), Thailand.*\
+**Abstract:** Malaria elimination is achievable with the existing diagnostics and interventions. However, with declining malaria incidence, targeted interventions become increasingly important to achieve elimination targets and reduce the risk of malaria resurgence. We developed a generalised linear geostatistical model to describe the spatial variation in the incidence of P. falciparum malaria across a network of approximately 500 malaria posts in the Karen State of Myanmar, operated by the Malaria Elimination Task Force (METF) programme since 2014. The model includes terms for the clinic status of the malaria post, and environmental determinants of malaria risk. Development of this model is ongoing with the intention of expanding this model to include temporal correlation, as well as temporally varying determinants of malaria incidence such as rainfall and time since targeted intervention (such as mass drug administration or vector control interventions). This analysis aims to provide methods for identifying the locations where targeted interventions may benefit already existing malaria elimination efforts not only for the Karen State, but for malaria elimination programmes more broadly. 
+
+**Spatial distribution and ecology of schistosomiasis and soil parasites in Eggua, Nigeria**\
+*Chiaka Anumudu Ijeoma, University of Ibadan*\
+**Abstract:**
+This study assessed the risk associated with environmental contamination by parasites in urinary schistosomiasis endemic areas. Urogenital schistosomiasis surveys were conducted in some rural communities in Yewa North Local Government Area, Ogun State between August 2012 and June 2016. Soil samples were examined for the presence of STH infective stages by microscopy. Geo-coordinates of each soil sampling point with the prevalence data for Schistosoma haematobium and STH infections were imported into ArcGIS 9.3 to map areas at risk. 
+Results: Out of 953 urine samples screened for schistosome eggs 253(26.5%) were positive. All the communities were classified as moderate risk areas (prevalence < 50%) for schistosomiasis.  Also, 79/143 (55.2%) soil samples screened were positive for STH eggs and larvae. The STH identified were Ascaris lumbricoides (49.0%), Hookworm species (16.8%), Strongyloides stercoralis (32.2%) and Trichuris trichiura (3.5%). The prevalence of single and mixed contaminations was 16.8% and 38.5% respectively. All the communities were high risk areas (prevalence > 50%) for contracting STH infections. Faecal contamination is a major factor aiding the continuous cycle of infection in this endemic zone; and may help to estimate the extent of the risk of schistosomiasis in STH endemic areas. The spatial modelling and building of risk maps  will be the focus of the presentation during the course.
+
+
+**LF post validation surveillance or TT prevalence estimates**\
+*Laura Senyonjo, Sightsavers*
+
+
+**Prevalence map for delay in measle vaccination in Northern provinces of Vietnam**\
+*Lam Phung, Oxford University Clinical Research Unit, UK*\
+**Abstract:** Geostatistical model will be applied on routine vaccination register database to produce prevalence map of delay in measle vaccination in selected northern provinces of Vietnam. Based on this model, priority areas will be identified for future intervention program to strengthen vaccination for measle prevention.

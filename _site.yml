@@ -1,0 +1,18 @@
+name: "MBG workshop 2021"
+output_dir: "_site"
+navbar:
+  title: "MBG Workshop 2021"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "Materials"
+      href: materials.html
+    - text: "Presentations"
+      href: presentations.html
+    - text: "Participants"
+      href: participants.html
+output:
+  html_document:
+    theme: yeti
+    # css: "style.css"

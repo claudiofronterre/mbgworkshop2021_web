@@ -1,0 +1,53 @@
+---
+title: "Introduction to Model-based Geostatistics<br/>for Global Public Health"
+---
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"logo.jpg\" style=\"float: right;width: 150px;\"/>')
+   });
+</script>
+
+This is the official website of the workshop on geostatistical methods for population health scientists delivered online by the Tropical Disease Epidemiology group at the Centre for Health Informatics Computing and Statistics in Lancaster University, on 20-22 April 2021. The convenors of the workshop are: [Dr Benjamin Amoah](http://chicas.lancaster-university.uk/people/amoah.html), [Dr Claudio Fronterre](http://chicas.lancaster-university.uk/people/fronterre.html), [Dr Olatunji Johnson](http://chicas.lancaster-university.uk/people/johnsono.html), [Dr Emanuele Giorgi](http://chicas.lancaster-university.uk/people/giorgi.html) and [Prof Peter Diggle](http://chicas.lancaster-university.uk/people/diggle.html). 
+
+ 
+## Course structure
+
+With a mix of lectures and lab sessions, the first two days of the workshop will introduce the underpinning concepts of model-based geostatistics and how to use geostatistical models to address public health problems. The lab sessions will be based on a user friendly Shiny app developed in the R software environment. 
+
+On the third day of the workshop, participants will be given the opportunity to present and receive feedback on their own projects that address public health questions requiring the use of spatial statistical methods. 
+
+## Course timetable
+
+**Day 1 - 20th April** 
+
+- 09:30 - 11:00  Geostatistical problems and spatial exploratory analysis ([slides](materials/slides/Lecture1.pdf)) 
+- 11:00 - 12:30 Lab session ([handout](materials/labs/Lab1.pdf))
+- 13:30 - 15:00 The linear geostatistical model: model formulation and estimation  ([slides](materials/slides/Lecture2.pdf))
+- 15:00 - 16:30 Lab session ([handout](materials/labs/Lab2.pdf))
+
+**Day 2 - 21st April** 
+
+- 09:30 - 11:00  The linear geostatistical model: spatial prediction ([slides](materials/slides/Lecture3.pdf))
+- 11:00 - 12:30 Lab session ([handout](materials/labs/Lab3.pdf))
+- 13:30 - 15:00 Binomial geo-statistical models for prevalence mapping ([slides](materials/slides/Lecture4.pdf)) 
+- 15:00 - 16:30 Lab session ([handout](materials/labs/Lab4.pdf))
+
+**Day 3 - 22nd April** 
+
+- 09:30-12:30 Presentations from the participants ([Abstracts](presentations.html))
+
+## Course materials
+
+Lecture slides, labs handout and datasets for the course can be download from 
+the [Materials](materials.html) page.
+
+## Required Software
+
+Prior to the beginning of the workshop we suggest you to install the following 
+softwares on your machine:
+
+* R version 3.0.1+ [Download here](https://cran.rstudio.com/)
+* RStudio 1.4 [Download here](https://rstudio.com/products/rstudio/download/#download)
+* Shiny app for the labs [Installation instructions](https://github.com/olatunjijohnson/MBGapp#installation)
