@@ -16,7 +16,7 @@ library(geoR)
 library(ggplot2)
 
 ############ source useful functions #####################
-source("function.R")
+source("functions.R")
 
 ######### Section 1: preliminary exploration of the dataset in R
 
