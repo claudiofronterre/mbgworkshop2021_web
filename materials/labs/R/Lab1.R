@@ -16,13 +16,13 @@ library(geoR)
 library(ggplot2)
 
 ############ source useful functions #####################
-source("helper_function.R")
+source("function.R")
 
 ######### Section 1: preliminary exploration of the dataset in R
 
 # Load the dataset named \texttt{GaliciaData.csv} into R
 
-data <- read.csv("/home/olatunji/Downloads/GaliciaData (2).csv")
+data <- read.csv("data/GaliciaData.csv")
 
 
 # Check the columns of the data and ensure that you understand what each column means.
@@ -70,9 +70,10 @@ ggplot( data %>% gather(key, value, -loglead, -lead),
 fit <- lm(formula = loglead ~ pm10, data = data)
 resi <- residuals(fit)
 
-ggvario(coords = data[, c("long", "lat")], data = resi, bins = 15, show_nbins = F)
+ggvario(coords = data[, c("long", "lat")], data = resi, bins = 15, 
+        show_nbins = F, envelope = F)
 
-# Note that we set envelop to 1 to have just the variogram
+# Note that we set envelop to FALSE to have just the variogram
 
 # note that the distance is still in degrees, so we need to convert the long and lat to meters
 
