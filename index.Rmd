@@ -22,9 +22,9 @@ On the third day of the workshop, participants will be given the opportunity to 
 
 **Day 1 - 20th April** 
 
-- 09:30 - 11:00  Geostatistical problems and spatial exploratory analysis ([slides](materials/slides/Lecture1.pdf)) 
+- 09:30 - 11:00  Geostatistical problems and spatial exploratory analysis ([slides](materials/slides/Lecture1.pdf), [video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FEYP6vyO3CsBMprUvMjdguuMBrP55zCNtUGH_cg7zkPHAMg%3Fe%3DWFSMz9&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C03c5642166d6498779d608d904a19e59%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637545914446883528%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=XwlxVAakggtYVcxTUXdqkPNceU94GjkBO90Q8%2FLokEk%3D&reserved=0)) 
 - 11:00 - 12:30 Lab session ([handout](materials/labs/Lab1.pdf))
-- 13:30 - 15:00 The linear geostatistical model: model formulation and estimation  ([slides](materials/slides/Lecture2.pdf))
+- 13:30 - 15:00 The linear geostatistical model: model formulation and estimation  ([slides](materials/slides/Lecture2.pdf), [video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FEapZJmGi8i9HhmteXrV133cBlWIYIUV7sso8-il9c1Gp6Q%3Fe%3Dmpk1a7&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C03c5642166d6498779d608d904a19e59%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637545914446883528%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=5sQIqDcrBbU0%2F8%2F0ase5%2BzgYPNf032x7RDdSv%2BenYXo%3D&reserved=0))
 - 15:00 - 16:30 Lab session ([handout](materials/labs/Lab2.pdf))
 
 **Day 2 - 21st April** 
