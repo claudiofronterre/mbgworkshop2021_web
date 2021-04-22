@@ -29,9 +29,9 @@ On the third day of the workshop, participants will be given the opportunity to 
 
 **Day 2 - 21st April** 
 
-- 09:30 - 11:00  The linear geostatistical model: spatial prediction ([slides](materials/slides/Lecture3.pdf))
+- 09:30 - 11:00  The linear geostatistical model: spatial prediction ([slides](materials/slides/Lecture3.pdf), [video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FEW-SHjp0qKRFl0CAZ68O0w0BvHiMsdYaT_14ygoBJ9SIzg%3Fe%3Dz3TvlD&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C6e78c4b70511432fdf0208d90568984c%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637546769046885888%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=4PJRWSh68tCRnr9yLk8p8I0tHkEHTctiYHcIt8nCT8k%3D&reserved=0))
 - 11:00 - 12:30 Lab session ([handout](materials/labs/Lab3.pdf))
-- 13:30 - 15:00 Binomial geo-statistical models for prevalence mapping ([slides](materials/slides/Lecture4.pdf)) 
+- 13:30 - 15:00 Binomial geo-statistical models for prevalence mapping ([slides](materials/slides/Lecture4.pdf), [video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FEbFkPf2o0oJEhUNzY6fDtNgBemc4A-uv3b9iof5obQxihw%3Fe%3DGtcAEn&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C6e78c4b70511432fdf0208d90568984c%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637546769046885888%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=TCNXcVrp1SnvkAVIPVq%2B9peWL7WKzFO9WCF2hw9ue3M%3D&reserved=0)) 
 - 15:00 - 16:30 Lab session ([handout](materials/labs/Lab4.pdf))
 
 **Day 3 - 22nd April** 
