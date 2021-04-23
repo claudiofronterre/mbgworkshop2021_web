@@ -14,7 +14,7 @@ title: "Participants presentations"
 
 11:45 - 12:25 Lam Phung
 
-**Optimising surveillance and targeted intervention delivery to achieve malaria elimination in the Kayin State of Myanmar**\
+**Optimising surveillance and targeted intervention delivery to achieve malaria elimination in the Kayin State of Myanmar** ([video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FEWQ0eSgELItLhR_QcIcuq5MBbBxl0q2Bg_JeSb5ZVL1c5w%3Fe%3Dfdqjqw&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C1df59dd106f143347a6d08d90583c772%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637546885802489470%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=rdZ85lCu0O68qq2pCtQ2vS5UfodGRwQ7Agy9AFsVr%2F0%3D&reserved=0))\
 *Jade Rae, Shoklo Malaria Research Unit (SMRU), Thailand.*\
 **Abstract:** Malaria elimination is achievable with the existing diagnostics and interventions. However, with declining malaria incidence, targeted interventions become increasingly important to achieve elimination targets and reduce the risk of malaria resurgence. We developed a generalised linear geostatistical model to describe the spatial variation in the incidence of P. falciparum malaria across a network of approximately 500 malaria posts in the Karen State of Myanmar, operated by the Malaria Elimination Task Force (METF) programme since 2014. The model includes terms for the clinic status of the malaria post, and environmental determinants of malaria risk. Development of this model is ongoing with the intention of expanding this model to include temporal correlation, as well as temporally varying determinants of malaria incidence such as rainfall and time since targeted intervention (such as mass drug administration or vector control interventions). This analysis aims to provide methods for identifying the locations where targeted interventions may benefit already existing malaria elimination efforts not only for the Karen State, but for malaria elimination programmes more broadly. 
 
@@ -29,6 +29,6 @@ Results: Out of 953 urine samples screened for schistosome eggs 253(26.5%) were 
 *Laura Senyonjo, Sightsavers*
 
 
-**Prevalence map for delay in measle vaccination in Northern provinces of Vietnam**\
+**Prevalence map for delay in measle vaccination in Northern provinces of Vietnam** ([video](https://eur02.safelinks.protection.outlook.com/?url=https%3A%2F%2Flivelancsac-my.sharepoint.com%2F%3Av%3A%2Fg%2Fpersonal%2Fgiorgi_lancaster_ac_uk%2FES6idvawzDZLhmGipdJWaBkB9ecCdoGddz3NF4IooOLldQ%3Fe%3DcTKqc2&data=04%7C01%7Cc.fronterr%40lancaster.ac.uk%7C1df59dd106f143347a6d08d90583c772%7C9c9bcd11977a4e9ca9a0bc734090164a%7C0%7C0%7C637546885802499429%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=%2BWVcsHJ2a%2FGD3cLGRf5J9q2fKFcjxQ02Orgw2IjcXaw%3D&reserved=0))\
 *Lam Phung, Oxford University Clinical Research Unit, UK*\
 **Abstract:** Geostatistical model will be applied on routine vaccination register database to produce prevalence map of delay in measle vaccination in selected northern provinces of Vietnam. Based on this model, priority areas will be identified for future intervention program to strengthen vaccination for measle prevention.
